@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Universe>
+    <planet>
+        <name>EARTH</name>
+        <weight>5973600000</weight>
+    </planet>
+    <planet>
+        <name>MERCURY</name>
+        <weight>330000</weight>
+    </planet>
+    <planet>
+        <name>JUPITER</name>
+        <weight>5140000</weight>
+    </planet>
+    <planet>
+        <name>dfasfsda</name>
+        <weight>51402154213000</weight>
+    </planet>
+
+    <star>
+        <name>K83</name>
+        <weight>1413200000</weight>
+    </star>
+    <star>
+        <name>M93</name>
+        <weight>1766539000</weight>
+    </star>
+
+    <satellite>
+        <name>moon</name>
+        <weight>654700000</weight>
+    </satellite>
+    <satellite>
+        <name>europe</name>
+        <weight>324400</weight>
+    </satellite>
+    <satellite>
+        <name>phobos</name>
+        <weight>2630000</weight>
+    </satellite>
+
+
+</Universe>
